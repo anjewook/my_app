@@ -1,0 +1,5 @@
+﻿
+
+윈도우에서 GIT 원격 서버 구축하기
+
+http://blog.gaerae.com/2015/05/git-server-for-windows.html
